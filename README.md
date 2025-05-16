@@ -1,5 +1,11 @@
 <h2 align="left">Hey! It's Imtiaj</h2>
 
+###
+
+<div style="margin-top:80px;">
+  <img align="right" height="135" width="150" src="https://github.com/imtiajahamed17/imtiajahamed17/blob/main/img/omnitrix.gif?raw=true"  />
+</div
+
 #### Languages
 
 <div align="left">
@@ -20,12 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wasm/wasm-original.svg" height="30" alt="wasm logo" />
-</div>
-
-###
-
-<div style="margin-top:80px;">
-  <img align="right" height="135" width="150" src="https://github.com/imtiajahamed17/imtiajahamed17/blob/main/img/omnitrix.gif?raw=true"  />
 </div>
 
 #### Tools
