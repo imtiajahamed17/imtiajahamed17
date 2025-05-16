@@ -1,6 +1,6 @@
 <h2 align="left">Hey! It's Imtiaj</h2>
 
-### <br>
+###
 
 <img align="right" height="135" width="150" src="https://github.com/imtiajahamed17/imtiajahamed17/blob/main/img/omnitrix.gif?raw=true"  />
 
