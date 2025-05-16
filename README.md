@@ -2,7 +2,11 @@
 
 ###
 
-<img align="right" height="135" src="https://github.com/imtiajahamed17/imtiajahamed17/blob/main/img/gojo.gif?raw=true"  />
+<img align="right" height="135" src="https://github.com/imtiajahamed17/imtiajahamed17/>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/imtiajahamed17/imtiajahamed17/main/612c93bbae9bfbcb7df33fd88d2b78d9.gif" alt="Profile GIF" width="250"/>
+</p>
 
 #### Languages
 
