@@ -37,6 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
+  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" height="30" alt="cloudflare logo"  />
@@ -46,6 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/tyroruyk/tyroruyk/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/imtiajahamed17/imtiajahamed17/output/snake.svg" alt="Snake animation" />
 
 ###
