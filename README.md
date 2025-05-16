@@ -9,9 +9,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
   <img width="12" />
-
-src="https://raw.githubusercontent.com/imtiajahamed17/imtiajahamed17/main/612c93bbae9bfbcb7df33fd88d2b78d9.gif" alt="Profile GIF" width="100" height="40"
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" alt="js logo"  />
