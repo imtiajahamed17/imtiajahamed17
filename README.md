@@ -3,7 +3,7 @@
 ###
 
 <div style="margin-top:80px;">
-  <img align="right" height="200" width="150" src="https://github.com/imtiajahamed17/imtiajahamed17/blob/main/img/peter.gif?raw=true"  />
+  <img align="right" height="300" width="150" src="https://github.com/imtiajahamed17/imtiajahamed17/blob/main/img/peter.gif?raw=true"  />
 </div
 
 #### Languages
