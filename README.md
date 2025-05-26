@@ -1,11 +1,11 @@
-## 📫 Contact Me
-
-- ✉️ Email: [imtiajahmed2005@gmail.com](mailto:imtiajahmed2005@gmail.com)
-- 🌐 Portfolio: [imtiajahamed17.github.io](https://imtiajahamed17.github.io)
-- 💼 LinkedIn: [linkedin.com/in/imtiajahamed17](https://www.linkedin.com/in/imtiajahamed17)
-- 📘 Facebook: [facebook.com/imtiajahamed17](https://facebook.com/imtiajahamed17)
-- 📸 Instagram: [instagram.com/imtiajahamed17](https://instagram.com/imtiajahamed17)
-- ✖️ Twitter/X: [@imtiajahamed_17](https://twitter.com/imtiajahamed_17)
+<p align="left">
+  <a href="mailto:imtiajahmed2005@gmail.com"><img src="https://img.shields.io/badge/email-333333?style=for-the-badge&logo=gmail&logoColor=white" height="24"></a>
+  <a href="https://imtiajahamed17.github.io"><img src="https://img.shields.io/badge/website-333333?style=for-the-badge&logo=google-chrome&logoColor=white" height="24"></a>
+  <a href="https://www.linkedin.com/in/imtiajahamed17"><img src="https://img.shields.io/badge/linkedin-333333?style=for-the-badge&logo=linkedin&logoColor=white" height="24"></a>
+  <a href="https://facebook.com/imtiajahamed17"><img src="https://img.shields.io/badge/facebook-333333?style=for-the-badge&logo=facebook&logoColor=white" height="24"></a>
+  <a href="https://instagram.com/imtiajahamed17"><img src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=white" height="24"></a>
+  <a href="https://twitter.com/imtiajahamed_17"><img src="https://img.shields.io/badge/x-333333?style=for-the-badge&logo=twitter&logoColor=white" height="24"></a>
+</p>
 
 <h2 align="left">Hey! It's Imtiaj</h2>
 
