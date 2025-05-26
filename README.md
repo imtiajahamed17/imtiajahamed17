@@ -1,3 +1,12 @@
+## 📫 Contact Me
+
+- ✉️ Email: [imtiajahmed2005@gmail.com](mailto:imtiajahmed2005@gmail.com)
+- 🌐 Portfolio: [imtiajahamed17.github.io](https://imtiajahamed17.github.io)
+- 💼 LinkedIn: [linkedin.com/in/imtiajahamed17](https://www.linkedin.com/in/imtiajahamed17)
+- 📘 Facebook: [facebook.com/imtiajahamed17](https://facebook.com/imtiajahamed17)
+- 📸 Instagram: [instagram.com/imtiajahamed17](https://instagram.com/imtiajahamed17)
+- ✖️ Twitter/X: [@imtiajahamed_17](https://twitter.com/imtiajahamed_17)
+
 <h2 align="left">Hey! It's Imtiaj</h2>
 
 ###
